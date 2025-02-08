@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Chetla Srijith
 
 🎓 **2nd Year CSE (Data Science) Student** at **Vardhaman College of Engineering**  
 💡 Passionate about **Machine Learning, Data Structures, and Web Development**  
