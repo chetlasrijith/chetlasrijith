@@ -3,12 +3,12 @@
 🎓 **2nd Year CSE (Data Science) Student** at **Vardhaman College of Engineering**  
 💡 Passionate about **Machine Learning, Data Structures, and Web Development**  
 🚀 Currently working on some **cool projects**  
-📚 Exploring **Django, Python, DSA, and ML**  
+📚 Exploring **Python, DSA, and ML**  
 
 ## 🛠 Tech Stack  
-- **Languages:** Python, JavaScript, C++  
-- **Web Dev:** Django, React, TailwindCSS  
-- **ML & Data Science:** NumPy, Pandas, Scikit-Learn  
+- **Languages:** Python, JavaScript, C, Java 
+- **Web Dev:** HTML, CSS, Bootstrap, React, NodeJS  
+- **ML & Data Science:** NumPy, Pandas, Scikit-Learn, Tensorflow  
 - **Tools & Platforms:** Git, GitHub, VS Code  
 
 ## 📌 Connect with Me  
