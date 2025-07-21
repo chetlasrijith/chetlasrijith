@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith;Aspiring+Machine+Learning+Engineer;Data+Scientist+%7C+Analyst;Passionate+about+AI+%26+Deep+Learning" alt="Typing SVG" />
 </h1>
 
----
-
 ## 🧠 About Me
 - 🧑‍💻 Machine Learning & Deep Learning enthusiast.
 - 📊 Aspiring Data Scientist & Analyst.  
