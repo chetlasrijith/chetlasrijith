@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/chetlasrijith/chetlasrijith/assets/logo.png" width="150px">
+  <img src="[https://github.com/chetlasrijith/chetlasrijith/assets/logo.png](https://avatars.githubusercontent.com/u/71709882?v=4)" width="150px">
 </p>
 
 ---
