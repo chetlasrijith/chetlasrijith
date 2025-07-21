@@ -1,12 +1,20 @@
+<!-- GitHub Profile README -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith;Aspiring+Machine+Learning+Engineer;Data+Scientist+%7C+Analyst;Passionate+about+AI+%26+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith!;Machine+Learning+Engineer+%7C+Data+Scientist;Exploring+AI%2C+Deep+Learning+and+CV" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/71709882?v=4" width="130px" height="130px" style="border-radius: 50%;" />
+</p>
+
+---
+
 ## 🧠 About Me
-- 🧑‍💻 Machine Learning & Deep Learning enthusiast.
-- 📊 Aspiring Data Scientist & Analyst.  
-- 📝 Exploring AI, NLP, and Computer Vision.  
-- 🌱 Currently leveling up in **ML engineering**.  
+- 👨‍💻 Passionate Machine Learning & Deep Learning Practitioner.
+- 📊 Data Scientist | Data Analyst with a research mindset.
+- 🖋️ Enthusiastic about Computer Vision, AI, and NLP.
+- 🌱 Currently upskilling in production-grade ML engineering.
 
 ---
 
@@ -22,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/chetlasrijith">
-    <img src="https://github-readme-streak-stats.demolab.com?user=chetlasrijith&theme=github-dark&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="88%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chetlasrijith&theme=github-dark&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="88%" />
   </a>
 </p>
 
@@ -32,12 +40,14 @@
   </a>
 </p>
 
+---
+
 ## 🚀 **Featured Projects**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔥 **Smart Window** | An IoT-enabled window with rain, gas detection | Arduino, C, Sensors |
-| 🤖 **ML Disease Prediction** | Predict diseases from health data using ML models | Python, Pandas, Scikit-learn |
-| 🌊 **Underwater Plastic Detection** | Deep learning-based plastic waste detection system | YOLOv8, OpenCV |
+| 🔹 Project | 🔹 Description | 🔹 Tech Stack |
+|----------|-------------|--------------|
+| 🔥 **Smart Window** | IoT-enabled automated window with sensors | Arduino, C, Rain & Gas Sensors |
+| 🤖 **ML Disease Prediction** | Predicts health conditions using ML | Python, Pandas, Scikit-learn |
+| 🌊 **Underwater Plastic Detection** | Deep learning for marine plastic waste | YOLOv8, OpenCV, Leaflet |
 
 ---
 
@@ -52,4 +62,10 @@
   <a href="https://github.com/chetlasrijith">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer"/>
 </p>
