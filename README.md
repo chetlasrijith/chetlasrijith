@@ -29,8 +29,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetlasrijith&theme=react-dark&hide_border=true&background=00000000" alt="Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chetlasrijith&theme=react-dark&hide_border=true"
+    alt="Srijith’s GitHub Activity Graph"
+    width="700"
+  />
 </p>
+
 
 ---
 
