@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith;Aspiring+Machine+Learning+Engineer;Data+Scientist+%7C+Analyst;Passionate+about+AI+%26+Deep+Learning" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/71709882?v=4" 
-       width="150" height="150" 
-       style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);" 
-       alt="Srijith Profile Picture">
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -40,7 +33,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetlasrijith&theme=github-compact&hide_border=true&area=true&color=00FFFF" width="95%"/>
   </a>
 </p>
-
 
 ## 🚀 **Featured Projects**
 | Project | Description | Tech Stack |
