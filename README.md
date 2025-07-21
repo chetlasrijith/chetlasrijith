@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/chetlasrijith/chetlasrijith/assets/logo.png](https://avatars.githubusercontent.com/u/71709882?v=4)](https://avatars.githubusercontent.com/u/71709882?s=400&u=06232b1cdd6d9f23ccbc1ead7b5e8f10bfdc76f6&v=4" width="150px">
+  <img src="https://avatars.githubusercontent.com/u/71709882?s=400&u=06232b1cdd6d9f23ccbc1ead7b5e8f10bfdc76f6&v=4" 
+       width="150px" 
+       style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.6);" 
+       alt="Srijith Profile Picture">
 </p>
 
 ---
