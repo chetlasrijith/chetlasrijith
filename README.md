@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith!;Machine+Learning+Engineer+%7C+Data+Scientist;Exploring+AI%2C+Deep+Learning+and+CV" alt="Typing SVG" />
 </h1>
 
-
-
----
-
 ## 🧠 About Me
 - 👨‍💻 Passionate Machine Learning & Deep Learning Practitioner.
 - 📊 Data Scientist | Data Analyst with a research mindset.
@@ -26,11 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/chetlasrijith">
-    <img src="https://github-readme-streak-stats.demolab.com?user=chetlasrijith&theme=github-dark&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="88%" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/chetlasrijith">
