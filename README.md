@@ -28,10 +28,9 @@
 
 <p align="center">
   <a href="https://github.com/chetlasrijith">
-    <img src="https://streak-stats.demolab.com?user=chetlasrijith&theme=github-dark&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="88%" />
+    <img src="https://github-readme-streak-stats.demolab.com?user=chetlasrijith&theme=github-dark&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="88%" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/chetlasrijith">
