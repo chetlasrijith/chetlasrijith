@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith!;Machine+Learning+Engineer+%7C+Data+Scientist;Exploring+AI%2C+Deep+Learning+and+CV" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/71709882?v=4" width="130px" height="130px" style="border-radius: 50%;" />
-</p>
+
 
 ---
 
