@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/71709882?s=400&u=06232b1cdd6d9f23ccbc1ead7b5e8f10bfdc76f6&v=4" 
-       width="150px" 
+       width="150" height="150" 
        style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);" 
        alt="Srijith Profile Picture">
 </p>
