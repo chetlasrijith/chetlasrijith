@@ -1,54 +1,54 @@
-<p align="center">
-  <img src="assets/typing-srijith.gif" alt="Typing Hello, I'm Srijith" width="600"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Srijith;A+Passionate+ML+Engineer;Data+Scientist+%7C+Analyst" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">Data Scientist • Machine Learning Engineer • AI Enthusiast</h3>
+<p align="center">
+  <img src="https://github.com/chetlasrijith/chetlasrijith/assets/logo.png" width="150px">
+</p>
 
 ---
 
-## 🚀 Key Projects
-
-<p align="center">
-  <img src="assets/3d-wave.gif" alt="3D Wave Divider" width="80%"/>
-</p>
-
-- **EcoBot** – Underwater plastic detection with YOLOv8 & geospatial mapping  
-- **NN From Scratch** – Two‑layer neural network on MNIST built with NumPy  
-- **Healthcare Analytics** – *Predictive Analytics in Healthcare Using ML* (preprint)  
-- **Underwater Plastic Detector** – Leaflet.js + YOLOv8 for environmental sustainability  
+## 🧠 About Me
+- 🧑‍💻 Machine Learning & Deep Learning enthusiast.
+- 📊 Aspiring Data Scientist & Analyst.  
+- 📝 Exploring AI, NLP, and Computer Vision.  
+- 🌱 Currently leveling up in **ML engineering**.  
 
 ---
 
-## 📊 GitHub Stats & Activity
-
+## 📊 **GitHub Stats**
 <p align="center">
-  <!-- Combined stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chetlasrijith&theme=dark&show_icons=true&count_private=true&hide_border=true" width="480" alt="GitHub Stats"/>
-  <!-- 3D animated overlay -->
-  <img src="assets/3d-stats-animation.gif" width="160" alt="3D Stats Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chetlasrijith&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetlasrijith&theme=radical&hide_border=true&background=00000000" width="48%" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chetlasrijith&theme=react-dark&hide_border=true"
-    alt="Srijith’s GitHub Activity Graph"
-    width="700"
-  />
-</p>
-
 
 ---
 
-## 🌐 Connect with Me
-
+## 🕒 **My Contribution Graph**
 <p align="center">
-  <a href="https://linkedin.com/in/chetlasrijith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-chetlasrijith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/chetlasrijith" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-chetlasrijith-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetlasrijith&theme=react-dark&hide_border=true&area=true&color=00FFFF" />
+</p>
+
+---
+
+## 🚀 **Featured Projects**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔥 **Smart Window** | An IoT-enabled window with rain, gas detection | Arduino, C, Sensors |
+| 🤖 **ML Disease Prediction** | Predict diseases from health data using ML models | Python, Pandas, Scikit-learn |
+| 🌊 **Underwater Plastic Detection** | Deep learning-based plastic waste detection system | YOLOv8, OpenCV |
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/chetlasrijith">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chetlasrijith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-chetlasrijith-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chetlasrijith">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
