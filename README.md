@@ -12,6 +12,33 @@
 
 ---
 
+## 🔗 Connect With Me  
+<p align="center">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/chetlasrijith">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 📧 Email  
+<p align="center">
+  <a href="mailto:chetlasrijith@gmail.com" style="font-size: 18px; text-decoration:none;">
+    **chetlasrijith@gmail.com**
+  </a>
+</p>
+
+### 💻 Coding Profile  
+<p align="center">
+  <a href="https://codolio.com/profile/thechetla" style="font-size: 18px; text-decoration:none;">
+    🔗 Codolio – My Coding Profile
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Insights Dashboard
 <p align="center">
   <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
@@ -21,7 +48,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetlasrijith&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&langs_count=6" width="42%">
   </a>
 </p>
-
 
 <p align="center">
   <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
@@ -37,21 +63,6 @@
 | 🔥 **Smart Window** | IoT-enabled automated window with sensors | Arduino, C, Rain & Gas Sensors |
 | 🤖 **ML Disease Prediction** | Predicts health conditions using ML | Python, Pandas, Scikit-learn |
 | 🌊 **Underwater Plastic Detection** | Deep learning for marine plastic waste | YOLOv8, OpenCV, Leaflet |
-
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a style="text-decoration: none;" href="https://www.linkedin.com/in/chetlasrijith">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a style="text-decoration: none;" href="mailto:chetlasrijith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
