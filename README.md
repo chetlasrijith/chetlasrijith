@@ -22,15 +22,17 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<a href="https://codolio.com/profile/thechetla">
-  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=code&logoColor=white" />
-</a>
+<p>
+  <a href="https://codolio.com/profile/thechetla">
+    <img src="https://img.shields.io/badge/Codolio-FFA500?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
+</p>
 
 
 ### 📧 Email  
 <p align="center">
   <a href="mailto:chetlasrijith@gmail.com" style="font-size: 18px; text-decoration:none;">
-    **chetlasrijith@gmail.com**
+    chetlasrijith@gmail.com
   </a>
 </p>
 
