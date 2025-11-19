@@ -34,25 +34,6 @@ Passionate ML practitioner, Data Scientist exploring Agentic AI
   </a>
 </p>
 
-
----
-
-## 📊 GitHub Insights Dashboard
-<p align="center">
-  <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
-    <img src="https://github-readme-stats.vercel.app/api?username=chetlasrijith&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="42%" />
-  </a>
-  <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetlasrijith&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF&langs_count=6" width="42%">
-  </a>
-</p>
-
-<p align="center">
-  <a style="text-decoration: none;" href="https://github.com/chetlasrijith">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetlasrijith&theme=github-compact&hide_border=true&area=true&color=00FFFF" width="95%"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 **Featured Projects**
