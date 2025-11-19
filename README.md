@@ -69,6 +69,7 @@ Passionate ML practitioner, Data Scientist exploring Agentic AI
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
 ---
 
 ## 🚀 **Featured Projects**
