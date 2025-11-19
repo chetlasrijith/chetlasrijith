@@ -30,10 +30,12 @@
 
 ### 📧 Email  
 <p align="center">
+  How to reach me 
   <a href="mailto:chetlasrijith@gmail.com" style="font-size: 18px; text-decoration:none;">
     chetlasrijith@gmail.com
   </a>
 </p>
+<p>Fun fact <b>I hope a recruiter finds my profile cool.</b></p>
 
 ---
 
