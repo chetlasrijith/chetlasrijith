@@ -4,11 +4,9 @@
   <img style="text-decoration: none;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Hello%2C+I'm+Srijith!;Machine+Learning+Engineer+%7C+Data+Scientist;Exploring+AI%2C+Deep+Learning+and+CV" alt="Typing SVG" />
 </h1>
 
-## 🧠 About Me
-- 👨‍💻 Passionate Machine Learning & Deep Learning Practitioner.
-- 📊 Data Scientist | Data Analyst with a research mindset.
-- 🖋️ Enthusiastic about Computer Vision, AI, and NLP.
-- 🌱 Currently upskilling in production-grade ML engineering.
+## About Me
+Passionate ML practitioner, Data Scientist exploring Agentic AI
+<p>Fun fact <b>I hope a recruiter finds my profile cool.</b></p>
 
 ---
 
@@ -35,7 +33,7 @@
     chetlasrijith@gmail.com
   </a>
 </p>
-<p>Fun fact <b>I hope a recruiter finds my profile cool.</b></p>
+
 
 ---
 
